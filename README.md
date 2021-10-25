@@ -1,11 +1,7 @@
-# Tutorial membuat akun GitHub
+# Quiz @
 Azrul Rochmad Rifai
+20.01.013.0136
 
-# 1. Pengenalan Github
-       Github merupakan website 
-    dengan Version Control System (VCS) yang
-    menyediakan layanan untuk menyimpan
-    repository dengan gratis. Respository
-    merupakan tempat yang dapat Anda gunakan
-    untuk menyimpan berbagai file berupa source
-    code
+
+# 1. Jelaskan arti angka dari versi python di bawah ini!
+       
